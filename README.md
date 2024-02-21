@@ -14,6 +14,9 @@ The implemented machine learning pipeline involves the following steps:
 3. Model Training
 4. Model Evaluation
 
+## Use of LazyPredict:
+To determine the best model for each dataset, we utilized the `LazyPredict` library. `LazyPredict` provides a simple and quick way to evaluate a variety of models on a given dataset without the need for extensive manual coding. By using `LazyPredict`, we were able to identify the most promising machine learning models for our datasets, which were then further evaluated and fine-tuned as part of our pipeline.
+
 ## Datasets Used:
 The pipeline is executed on the following datasets:
 1. [Dry Bean Dataset](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
