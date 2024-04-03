@@ -7,7 +7,10 @@
 
 ## Description:
 
-This repository contains the implementation of a machine learning pipeline for the execution of K-Nearest Neighbors (K-NN) Classifier. The pipeline is implemented as part of Assignment for the course CSE 602 - Machine Learning-I.
+This repository contains Assignments for the course CSE 602 - Machine Learning-I.
+
+- [Assigment 1](https://github.com/murtazaa-hussainn/CSE-602-Machine-Learning-I/tree/main/Assignment%201)
+- [Assigment 2](https://github.com/murtazaa-hussainn/CSE-602-Machine-Learning-I/tree/main/Assignment%202)
 
 ## Additional Notes:
 
