@@ -1,29 +1,17 @@
-# Machine Learning-I (CSE 602) - Assignment 1
+# Machine Learning-I (CSE 602) - Assignment 2
 
 ## Contributors:
 - [Murtaza Hussain (29449)](https://github.com/murtazaa-hussainn)
 - [Muhammad Asad ur Rehman (29456)](https://github.com/MARN121)
 
 ## Description:
-This repository contains the implementation of a machine learning pipeline for the execution of K-Nearest Neighbors (K-NN) Classifier. The pipeline is implemented as part of Assignment for the course CSE 602 - Machine Learning-I.
+
 
 ## Implemented ML Pipeline:
-The implemented machine learning pipeline involves the following steps:
-1. Data Preprocessing
-2. Feature Engineering
-3. Model Training
-4. Model Evaluation
 
-## Use of LazyPredict:
-To determine the best model for each dataset, we utilized the `LazyPredict` library. `LazyPredict` provides a simple and quick way to evaluate a variety of models on a given dataset without the need for extensive manual coding. By using `LazyPredict`, we were able to identify the most promising machine learning models for our datasets, which were then further evaluated and fine-tuned as part of our pipeline.
 
 ## Datasets Used:
-The pipeline is executed on the following datasets:
-1. [Dry Bean Dataset](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
-2. [Mushroom Dataset](https://archive.ics.uci.edu/dataset/73/mushroom)
-3. [Estimation of Obesity Levels Dataset](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
-4. [Website Phishing Dataset](https://archive.ics.uci.edu/dataset/379/website+phishing)
-5. [Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
+
 
 ## Execution:
 To execute the machine learning pipeline on any of the datasets mentioned above, follow these steps:
