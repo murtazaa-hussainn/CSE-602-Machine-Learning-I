@@ -1,0 +1,21 @@
+Method,Classifier,Class 1 Recall,Class 1 Precision
+Baseline,Logistic Regression,1.0,0.9970648311248714
+Baseline,Random Forest,1.0,1.0
+Baseline,K-Nearest Neighbours,1.0,0.9999599519423308
+Baseline,Support Vector Machines,1.0,1.0
+Baseline,Naive Bayes,0.9361706388944523,0.9389941285885403
+Class Weighting,Logistic Regression,0.998097336270779,0.999739301963217
+Class Weighting,Random Forest,1.0,0.9998798798750654
+Class Weighting,K-Nearest Neighbours,1.0,0.9999599519423308
+Class Weighting,Support Vector Machines,1.0,1.0
+Class Weighting,Naive Bayes,0.8568395754055678,0.9730443058321653
+Bagging (Algorithmic Method),Logistic Regression,1.0,0.9969456356688916
+Bagging (Algorithmic Method),Random Forest,1.0,1.0
+Bagging (Algorithmic Method),K-Nearest Neighbours,1.0,0.9999599519423308
+Bagging (Algorithmic Method),Support Vector Machines,1.0,1.0
+Bagging (Algorithmic Method),Naive Bayes,0.9361305828159423,0.9389527997101931
+Boosting (Algorithmic) Method,Logistic Regression,0.9933106348888445,0.9765856352823066
+Boosting (Algorithmic) Method,Random Forest,1.0,1.0
+Boosting (Algorithmic) Method,K-Nearest Neighbours,1.0,0.9999599519423308
+Boosting (Algorithmic) Method,Support Vector Machines,1.0,1.0
+Boosting (Algorithmic) Method,Naive Bayes,0.9984778690166232,0.994485838507462

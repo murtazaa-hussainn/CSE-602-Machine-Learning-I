@@ -1,0 +1,16 @@
+Method,Classifier,Class 1 Recall,Class 1 Precision
+Baseline,Logistic Regression,1.0,0.9966467974617128
+Baseline,Random Forest,0.9999799719607451,1.0
+Baseline,K-Nearest Neighbours,1.0,0.9999399259084868
+Baseline,Support Vector Machines,1.0,1.0
+Baseline,Naive Bayes,0.9359903865411576,0.9390357075722955
+SMOTE,Logistic Regression,0.9987382335269377,0.9991785914164225
+SMOTE,Random Forest,1.0,1.0
+SMOTE,K-Nearest Neighbours,1.0,0.999979973966156
+SMOTE,Support Vector Machines,1.0,1.0
+SMOTE,Naive Bayes,0.9136190666933708,0.7050648045299297
+ADASYN,Logistic Regression,0.9999799719607451,0.995514408464028
+ADASYN,Random Forest,1.0,1.0
+ADASYN,K-Nearest Neighbours,1.0,1.0
+ADASYN,Support Vector Machines,1.0,1.0
+ADASYN,Naive Bayes,0.955397556579211,0.907833863287353
