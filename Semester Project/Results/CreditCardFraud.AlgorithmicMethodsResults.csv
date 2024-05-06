@@ -1,21 +1,21 @@
 Method,Classifier,Class 1 Recall,Class 1 Precision
 Baseline,Logistic Regression,0.5648221343873517,0.7965021008403361
-Baseline,Random Forest,0.8339920948616599,0.9592589093053491
+Baseline,Random Forest,0.842885375494071,0.9706208703577126
 Baseline,K-Nearest Neighbours,0.8298418972332016,0.9414989177489177
 Baseline,Support Vector Machines,0.7264822134387352,0.9697222222222223
 Baseline,Naive Bayes,0.8608695652173912,0.08576464559463051
 Class Weighting,Logistic Regression,0.9150197628458498,0.09529981175839056
-Class Weighting,Random Forest,0.8116600790513834,0.9689495798319328
+Class Weighting,Random Forest,0.8071146245059289,0.9622829131652662
 Class Weighting,K-Nearest Neighbours,0.8298418972332016,0.9414989177489177
 Class Weighting,Support Vector Machines,0.7622529644268775,0.40546544616626495
 Class Weighting,Naive Bayes,0.8608695652173912,0.08576464559463051
 Bagging (Algorithmic Method),Logistic Regression,0.5737154150197629,0.7995973389355743
-Bagging (Algorithmic Method),Random Forest,0.8383399209486164,0.9645220672000858
+Bagging (Algorithmic Method),Random Forest,0.842885375494071,0.9645220672000858
 Bagging (Algorithmic Method),K-Nearest Neighbours,0.825296442687747,0.9354671717171715
 Bagging (Algorithmic Method),Support Vector Machines,0.6909090909090909,0.9755555555555556
 Bagging (Algorithmic Method),Naive Bayes,0.8608695652173912,0.08635536096932717
-Boosting (Algorithmic) Method,Logistic Regression,0.774901185770751,0.8083154345654344
-Boosting (Algorithmic) Method,Random Forest,0.8385375494071144,0.9700577200577201
-Boosting (Algorithmic) Method,K-Nearest Neighbours,0.8298418972332016,0.9414989177489177
-Boosting (Algorithmic) Method,Support Vector Machines,0.7264822134387352,0.9697222222222223
-Boosting (Algorithmic) Method,Naive Bayes,0.8474308300395256,0.16406226674523422
+Boosting (Algorithmic Method),Logistic Regression,0.774901185770751,0.8083154345654344
+Boosting (Algorithmic Method),Random Forest,0.8385375494071144,0.9641753671165436
+Boosting (Algorithmic Method),K-Nearest Neighbours,0.8298418972332016,0.9414989177489177
+Boosting (Algorithmic Method),Support Vector Machines,0.7264822134387352,0.9697222222222223
+Boosting (Algorithmic Method),Naive Bayes,0.8474308300395256,0.16406226674523422
