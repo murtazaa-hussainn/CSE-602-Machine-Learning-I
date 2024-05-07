@@ -1,0 +1,14 @@
+Method,Classifier,Class 1 Recall,Class 1 Precision
+Baseline,Logistic Regression,0.10108173076923077,0.48348132775377356
+Baseline,Random Forest,0.09180288461538462,0.4181705549352608
+Baseline,K-Nearest Neighbours,0.16802884615384617,0.4164048095000119
+Baseline,Support Vector Machines,0.041971153846153846,0.392948717948718
+Baseline,Naive Bayes,0.4820673076923077,0.317240407737459
+One Class Learning (Adjusted Algorithms),Logistic Regression,0.8013816925734024,0.6312925170068027
+One Class Learning (Adjusted Algorithms),Random Forest,0.6252158894645942,0.6262975778546713
+One Class Learning (Adjusted Algorithms),K-Nearest Neighbours,0.20725388601036268,0.6936416184971098
+One Class Learning (Adjusted Algorithms),Support Vector Machines,0.0,0.0
+One Class Learning (Adjusted Algorithms),Naive Bayes,0.8393782383419689,0.5977859778597786
+One Class Learning (Special Algorithms),Isolation Forest,0.3405909797822706,0.375
+One Class Learning (Special Algorithms),One-Class SVM,0.24727838258164853,0.336864406779661
+One Class Learning (Special Algorithms),Local Outlier Factor,1.0,0.5007788161993769
